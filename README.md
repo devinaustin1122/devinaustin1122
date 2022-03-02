@@ -7,8 +7,3 @@
 ### Hi, I'm @devinaustin1122 👋
 
 I'm a programmer analyst specialized in building custom web solutions.
-
-I'm always interested in refining my craft and learning new technologies. A few of my favorites are:
-
-- React
-- ASP.NET CORE
