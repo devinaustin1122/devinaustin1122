@@ -1,4 +1,4 @@
-### Hi, I'm @devinaustin1122 👋
+### Hi, I'm Devin 👋
 
 I'm a programmer analyst specialized in building custom web solutions.
 
